@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InitialUserPages</key>
+	<array>
+		<string>F2CBA05A-F5AD-4133-AF9B-1B474EADCF78.playgroundpage</string>
+		<string>E1E684FD-28C2-41A1-8E8B-0E1CB8F23472.playgroundpage</string>
+		<string>EB59F5C7-09B9-4A7C-B390-E9637C4C3E09.playgroundpage</string>
+		<string>8AC714EA-9E71-4ACF-84D1-283E6CE48480.playgroundpage</string>
+		<string>18F98C1C-93AE-40C3-A21F-E6FAFEBB7CF9.playgroundpage</string>
+		<string>60E5CF8C-4047-478C-A4EE-643FABFB13D5.playgroundpage</string>
+		<string>FE63980B-9704-46E2-8699-1EEEC6721855.playgroundpage</string>
+		<string>07E00182-EB40-4988-8195-895E97B85C7C.playgroundpage</string>
+		<string>131375EB-7B70-4480-A80D-0D9F225D6704.playgroundpage</string>
+		<string>4FB75C12-609C-478C-8F6C-833F9CF50BD4.playgroundpage</string>
+		<string>03D2ED28-AF7A-4CA7-935E-1DCA5E3E3BEF.playgroundpage</string>
+		<string>7A376DEB-032D-4A77-9305-CFE450F7A439.playgroundpage</string>
+		<string>955826E9-275A-4BAE-A4C6-1F2EC83C339D.playgroundpage</string>
+		<string>75C5E13C-8663-4313-9E38-306E06C8F245.playgroundpage</string>
+		<string>FD74AF9F-8AE3-4EB3-AF8A-E726D3DFC26C.playgroundpage</string>
+		<string>842C3710-FB37-4D0B-89D4-D1B03326FF30.playgroundpage</string>
+		<string>FE6F9845-BF06-4145-8396-72C24B081C21.playgroundpage</string>
+		<string>9E570C9F-06B1-458D-85F9-9C73786EFE3F.playgroundpage</string>
+		<string>9515D0E7-1B62-498C-9438-BD0B3577689D.playgroundpage</string>
+		<string>4CD0667D-50A1-4BA3-8CEC-EF62B17EA31F.playgroundpage</string>
+		<string>9C8F3E8F-4846-4040-AD37-804FE4D3C4BB.playgroundpage</string>
+		<string>B74C9308-BB98-4BA7-B506-440184D771BB.playgroundpage</string>
+		<string>EAC0B4FE-6021-4399-883D-343B347D454D.playgroundpage</string>
+		<string>0141A145-57C3-4C64-9F6A-A9C5BD0A47D8.playgroundpage</string>
+		<string>636FE0CC-A4CE-4059-B216-08196DC0B521.playgroundpage</string>
+		<string>8EE7A0B9-66B8-4F7B-A9EF-CF1D8296C8DF.playgroundpage</string>
+	</array>
+	<key>Name</key>
+	<string>My Playground</string>
+	<key>TemplatePageFilename</key>
+	<string>Template.playgroundpage</string>
+</dict>
+</plist>
