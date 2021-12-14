@@ -14,7 +14,7 @@ func measure(_ title: String, block: () -> ()) {
 	print("\(title):: Time: \(formattedTime) ms")
 }
 
-let currentDay = Day3()
+let currentDay = Day13()
 
 print("Solving for \(String(describing: type(of: currentDay.self)))")
 
